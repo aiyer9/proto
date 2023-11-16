@@ -14,3 +14,5 @@ function a() {
     console.log("1300");
     console.log("break0");
 }
+    console.log("1400");
+}
