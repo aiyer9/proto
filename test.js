@@ -11,4 +11,5 @@ function a() {
     console.log("1000");
     console.log("1100");
     console.log("1200");
+    console.log("1300");
 }
