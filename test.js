@@ -12,4 +12,5 @@ function a() {
     console.log("1100");
     console.log("1200");
     console.log("1300");
+    console.log("1400");
 }
