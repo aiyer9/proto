@@ -8,4 +8,5 @@ function a() {
     console.log("700");
     console.log("800");
     console.log("900");
+    console.log("1000");
 }
