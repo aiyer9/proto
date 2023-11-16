@@ -7,4 +7,5 @@ function a() {
     console.log("600");
     console.log("700");
     console.log("800");
+    console.log("900");
 }
