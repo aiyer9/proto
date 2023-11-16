@@ -9,4 +9,5 @@ function a() {
     console.log("800");
     console.log("900");
     console.log("1000");
+    console.log("1100");
 }
