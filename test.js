@@ -4,4 +4,5 @@ function a() {
     console.log("C00");
     console.log("D00");
     console.log("500");
+    console.log("600");
 }
