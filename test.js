@@ -3,4 +3,5 @@ function a() {
     console.log("B00");
     console.log("C00");
     console.log("D00");
+    console.log("500");
 }
